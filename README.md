@@ -1,1 +1,1 @@
-![colorpick landing page preview](./color-pick-landing-page-preview.png-preview.gif)
+![colorpick landing page preview](./color-pick-landing-page-preview.png)
